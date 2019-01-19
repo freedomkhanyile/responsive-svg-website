@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="75" height="75" viewBox="0 0 75 75">
+  <defs>
+    <filter id="Path_553" x="0" y="0" width="75" height="75" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="menu_icon" transform="translate(-1097.5 -11.5)">
+    <g transform="matrix(1, 0, 0, 1, 1097.5, 11.5)" filter="url(#Path_553)">
+      <path id="Path_553-2" data-name="Path 553" d="M21,0A21,21,0,1,1,0,21,21,21,0,0,1,21,0Z" transform="translate(16.5 12.5)" fill="#c2185b"/>
+    </g>
+    <g id="Symbol_4_1" data-name="Symbol 4 – 1" transform="translate(792 -23)">
+      <rect id="Rectangle_534" data-name="Rectangle 534" width="24" height="24" transform="translate(331 56)" fill="#fff" opacity="0"/>
+      <path id="Union_4" data-name="Union 4" d="M-2359-211a.945.945,0,0,1-1-1,.945.945,0,0,1,1-1h18a.945.945,0,0,1,1,1,.945.945,0,0,1-1,1Zm0-6a.945.945,0,0,1-1-1,.944.944,0,0,1,1-1h18a.944.944,0,0,1,1,1,.945.945,0,0,1-1,1Z" transform="translate(2693 283)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
